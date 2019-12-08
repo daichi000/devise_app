@@ -29,6 +29,46 @@ body {
   clear: both;
 }
 /*=========================ここまで=======*/
+
+/*===========header======================*/
+
+.Eduate-right{
+  float:right;
+  padding-right:50px;
+}
+
+.Eduate-left{
+  float:left;
+}
+
+
+
+
+/*============ここまで====================*/
+/*==========about===============*/
+.about-main {
+  padding: 180px 8% 0;
+  color: white;
+}
+
+.about-main h2 {
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 1.4;
+  
+}
+
+.about-main p {
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.about-img {
+  width: 84%;
+}
+/*=============ここまで==========*/
+
+
 body{
   background-color:#9370DB;
 }
@@ -87,4 +127,18 @@ body{
 
   .actions{
     padding-left:450px;
+  }
+
+  .head h2{
+    padding-left:450px;
+  }
+
+  .head{
+    padding-top:150px;
+    padding-left:50px;
+   
+  }
+
+  .new_user{
+    font-size:20px;
   }
